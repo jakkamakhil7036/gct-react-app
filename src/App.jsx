@@ -9,6 +9,13 @@ function App() {
   return (
     <>
      <h1>hello everyone</h1>
+     <main>
+        Product List
+      </main>
+      <footer>
+        <hr />
+        &copy;2005. all rights reserved
+      </footer>
     </>
   )
 }
