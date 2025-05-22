@@ -3,8 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import { Route } from 'react-router-dom'
-import Product from "./components/Product";
-import Cart from "./components/Cart";
+import Product from "./components/Product"
+import Cart from "./components/Cart"
 import { BrowserRouter,Routes,Route,Link } from 'react-router-dom'
 
 function App() {
